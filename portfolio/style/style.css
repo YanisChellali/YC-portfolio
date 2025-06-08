@@ -513,7 +513,10 @@ body.epreuve main section img:not(main section article img):not(figure img) {
 
 /*----Partie-perso-Yanis----*/
 
-
+nav ul li a img {
+    height: 2em;
+    width: auto;
+}
 
 
 .momentsforts div{
