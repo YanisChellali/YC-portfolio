@@ -523,7 +523,7 @@ nav ul li a img {
     flex-direction: column;
 }
 
-.athlete div, .suite div:not(div.burger):not(div.burg) {
+.athlete div:not(.burger, .burg), .suite div:not(.burger, .burg) {
     display: flex;
 }
 
